@@ -1,0 +1,26 @@
+1. Main goal of this project:
+
+    "Learn German by understanding how words become sentences."
+
+
+2. You can build it progressively:
+
+    V1
+    → Vocabulary + articles + pronunciation
+
+    V2
+    → Sentence patterns
+
+    V3
+    → Interactive sentence construction
+
+    V4
+    → Exercises + scoring
+
+    V5
+    → Progress tracking + spaced repetition
+
+    V6
+    → A1 → A2 → B1 learning paths
+
+    And then you can think about AI features, login, profiles, streaks, leaderboards, payments, etc.
